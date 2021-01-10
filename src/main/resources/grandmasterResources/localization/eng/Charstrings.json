@@ -1,0 +1,13 @@
+{
+  "${ModID}:chr_gm": {
+    "NAMES": [
+      "The Grandmaster",
+      "the Grandmaster"
+    ],
+    "TEXT": [
+      "A pawn of Neow, who yet also controls pawns.",
+      "NL [gm] update text - heart",
+      "[gm] update text - vampire"
+    ]
+  }
+}
